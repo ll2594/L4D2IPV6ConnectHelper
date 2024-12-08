@@ -48,7 +48,7 @@ Supports: Windows, Linux
 
 Select the IPV4 and IPV6 addresses corresponding to the local machine, enter the IPV6 domain name of the server, click to obtain the server's IPV6, enter the remote server's IPV6 port, click to start the router, the server connection command will be displayed below, copy and paste near the game, enjoy it!
 
-![](img/ui.png)
+![](https://github.com/ll2594/L4D2IPV6ConnectHelper/blob/main/img/ui.png)
 
 ## 服务端 Server
 
